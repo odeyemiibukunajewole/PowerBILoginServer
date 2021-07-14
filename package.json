@@ -1,0 +1,22 @@
+{
+  "name": "powerbiloginserver",
+  "version": "1.0.0",
+  "description": "user create account and can login to power bi server",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/odeyemiibukunajewole/PowerBILoginServer.git"
+  },
+  "author": "Odeyemi Ibukun Ajewole",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/odeyemiibukunajewole/PowerBILoginServer/issues"
+  },
+  "homepage": "https://github.com/odeyemiibukunajewole/PowerBILoginServer#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
